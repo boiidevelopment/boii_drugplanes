@@ -29,11 +29,11 @@ boii_ui - https://github.com/boiidevelopment/boii_ui
 
 3. Script Installation: 
 
-- Drag and drop `boii_boxing` into your server resource ensuring your load order is correct. View the attached image below for a load order reference.
+- Drag and drop `boii_drugplanes` into your server resource ensuring your load order is correct. View the attached image below for a load order reference.
 
 ![image](https://cdn.discordapp.com/attachments/900123174669279284/969505774575435786/LOADORDER.jpg?ex=651335dd&is=6511e45d&hm=d7e7dc56675feadea2ad07d447df2429e9e052d8bc0049c16bbb3665650a6a51&)
 
-- If you are not using categorised folders within your server then you add `ensure boii_boxing` to your `server.cfg` 
+- If you are not using categorised folders within your server then you add `ensure boii_drugplanes` to your `server.cfg` 
 
 4. Restart Server:
 
